@@ -23,7 +23,7 @@ from product categorization to defect detection to autonomous systems.
 ![Training Curves](cnn_training_curves.png)
 ![Confusion Matrix](cnn_confusion_matrix.png)
 
-Strongest performance: automobile (93% F1), ship (90% F1)
+Strongest performance: automobile (93% F1) and  ship (90% F1)
 Weakest: cat (70% F1) — a known challenge in this dataset due to pose 
 and lighting variation, consistent with published CIFAR-10 benchmarks.
 
